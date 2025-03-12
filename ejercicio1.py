@@ -8,5 +8,5 @@ n = input("dijite el numero: ")
 
 mostrarcadena(cadena, n)
 
-print("\nEso era...")
+print("\nEso eraa...")
 

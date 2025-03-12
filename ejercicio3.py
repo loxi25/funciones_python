@@ -12,7 +12,7 @@ def sumar_lista_datos(lista):
 # creamos una lista vacia
 lisat = []
 # tamaño de la lista
-n = int(input("dijite el tamaño de la lista: "))
+n = int(input("dijitee el tamaño de la lista: "))
 
 for i in range(n):
     num = random.randint(1,9)

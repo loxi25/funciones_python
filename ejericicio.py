@@ -1,5 +1,5 @@
 print("==========================")
-print("mostrar cadena n veces en ")
+print("mostrar cadena x o n  veces en ")
 print("==========pantalla========")
 
 def mostrarnombre(nombre):
